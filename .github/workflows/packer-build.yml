@@ -23,7 +23,7 @@ jobs:
         working-directory: images/linux-amzn2
     steps:
       - name: "Checkout"
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3.1.0
       
       - name: packer init
         run: packer init .
