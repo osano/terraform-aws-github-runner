@@ -43,7 +43,7 @@
     "@types/node": "^16.11.12",
     "aws-sdk": "^2.1044.0",
     "cron-parser": "^4.2.0",
-    "tslog": "^3.3.0",
+    "tslog": "^4.7.0",
     "typescript": "^4.5.2"
   }
 }
